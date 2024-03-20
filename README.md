@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Azabu-bound, but you may call me Tyler or TB. I have a BS in Finance & Economics from Florida State University. I have four years of work experience in executive search in Tokyo, JP.
-- I am now a student again studying computer science.
+- 👋 Hi, I’m Tyler. I spent a little over four years working in Tokyo, Japan, as the COO of an executive search firm. Currently, I am a computer science student at the University of Colorado Boulder. In my free time, I build native IOS apps and Go CLI tools.
 
 <!---
 Azabu-bound/Azabu-bound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
