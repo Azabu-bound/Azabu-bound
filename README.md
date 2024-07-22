@@ -1,4 +1,4 @@
-Just a law student who likes to get Rusty.
+Recreational programmer and CS student.
 <!---
 Azabu-bound/Azabu-bound is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
